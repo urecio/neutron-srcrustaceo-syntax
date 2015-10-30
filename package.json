@@ -1,5 +1,5 @@
 {
-  "name": "neutron-syntax",
+  "name": "neutron-srcrustaceo-syntax",
   "theme": "syntax",
   "version": "0.7.0",
   "description": "Syntax theme for the Neutron UI theme",
